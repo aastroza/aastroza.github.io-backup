@@ -16,5 +16,8 @@
 - company: Departamento de Ingeniería Eléctrica, Universidad de Chile
   position: Investigador Asistente
   duration:   Dic, 2006  &mdash; Aug, 2016
-  summary: "+ Proyecto Fondef D04I-1256: Biometría para vigilancia inteligente por video.+Proyecto Fondef D08I-1060: Reconocimiento inteligente de patrones por video, aplicaciones en vigilancia y minería.
-  "
+  summary: "Participación en proyectos de investigación con fondos estatales. Todos fueron proyectos de Machine Learning basados en OpenCV y C++.
+  <ul>
+  <li>Proyecto Fondef D04I-1256: Biometría para vigilancia inteligente por video.</li>
+  <li>Proyecto Fondef D08I-1060: Reconocimiento inteligente de patrones por video, aplicaciones en vigilancia y minería.</li>
+  </ul>"
