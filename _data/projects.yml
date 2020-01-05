@@ -11,11 +11,20 @@
   #image_path: "images/placeholder.png"
   #image_name: "placeholder"
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
-  image_path: "images/SCOG.jpg"
-  image_name: "SCOG"
+# Dos Santiagos
+- project: 2|S Dos Santiagos
+  role: Co-author
+  duration: 2014
+  url: "https://users.dcc.uchile.cl/~egraells/abrecl/"
+  description: Visualization project about public transport and segregation in Santiago, Chile. 
+  image_path: "images/2014-stgo-flow.png"
+  image_name: "santiago-flow"
+
+  # Ryuuko
+- project: Ryuuko / Competitive Game Analytics Blog
+  role: Co-author
+  duration: 2014
+  url: "https://rkga.tumblr.com/"
+  description: Visualization project about public transport and segregation in Santiago, Chile. 
+  image_path: "images/2014-sf-matchups-clusters.png"
+  image_name: "matchups-clusters"
