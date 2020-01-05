@@ -6,7 +6,7 @@
 - project: docuti.com
   role: Founder & Developer
   duration: 2019 &mdash; Present
-   url: "https://www.docuti.com/"
+  url: "https://www.docuti.com/"
   description: AI-powered data extraction for documents.
   #image_path: "images/placeholder.png"
   #image_name: "placeholder"
