@@ -11,6 +11,17 @@
   #image_path: "images/placeholder.png"
   #image_name: "placeholder"
 
+# Tmetrics
+
+# PokeAlertas
+- project: PokeAlertas
+  role: Creator & Developer
+  duration: 2016
+  url: "https://twitter.com/PokeAlertasSCL"
+  description: Visualization project about public transport and segregation in Santiago, Chile. 
+  image_path: "images/alertas_pokemonPNG.PNG"
+  image_name: "pokemon-alertas"
+
 # Dos Santiagos
 - project: 2|S Dos Santiagos
   role: Co-author
