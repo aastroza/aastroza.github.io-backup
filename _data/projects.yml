@@ -12,13 +12,18 @@
   #image_name: "placeholder"
 
 # Tmetrics
+- project: Tmetrics
+  role: Founder & Developer
+  duration: 2019
+  url: "https://www.elmostrador.cl/agenda-pais/2019/06/11/desafio-tech-and-the-city-los-proyectos-que-buscan-hacer-de-nuestras-ciudades-un-mejor-lugar-para-vivir/"
+  description: 
 
 # PokeAlertas
 - project: PokeAlertas
   role: Creator & Developer
   duration: 2016
   url: "https://twitter.com/PokeAlertasSCL"
-  description: Visualization project about public transport and segregation in Santiago, Chile. 
+  description:  
   image_path: "images/alertas_pokemonPNG.PNG"
   image_name: "pokemon-alertas"
 
@@ -36,6 +41,6 @@
   role: Co-author
   duration: 2014
   url: "https://rkga.tumblr.com/"
-  description: Visualization project about public transport and segregation in Santiago, Chile. 
-  image_path: "images/2014-sf-matchups-clusters.png"
-  image_name: "matchups-clusters"
+  description: 
+  #image_path: "images/2014-sf-matchups-clusters.png"
+  #image_name: "matchups-clusters"

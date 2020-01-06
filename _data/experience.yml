@@ -1,9 +1,15 @@
 # Jobs
+# GeoVictoria
+- company: Victoria S.A.
+  position: Head of Data Science
+  duration: Sep, 2016 &mdash; Present
+  summary: "Líder del área de Data Science, generando nuevos productos tecnológicos basados en datos para el uso de empresas en Latinoamérica: Aramark, Cencosud, Farmacias Ahumada, Ópticas GMO, Bureau Veritas, Samsung, Petrobras, Starbucks."
+
 # UDD
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Instituto Data Science Universidad del Desarrollo
+  position: Profesor adjunto
+  duration: Jun, 2019 &mdash; Present
+  summary: Profesor del curso "Desarrollo de proyectos y productos de datos" en los programas de Magíster y Diplomado de Ciencia de Datos.
 
 # Coopeuch
 - company: Coopeuch
@@ -11,6 +17,11 @@
   duration:  Nov, 2018 &mdash; Jan, 2019
   summary: Profesor del curso “Machine Learning y Data Science en Python” dictado para los 16 integrantes del área de Inteligencia de Negocios. Se trabajaron las bases para el diseño e implementación de proyectos de software basados en datos para el mundo financiero.
 
+# GeoVictoria
+- company: Victoria S.A.
+  position: Consultor de Inteligencia Artificial
+  duration:  Sep, 2014 &mdash; Aug, 2016
+  summary: Consultor en Proyecto de Biometría de Voz. Desarrollador en aplicación de Visualización de Datos para Retail.
 
 # U de Chile
 - company: Departamento de Ingeniería Eléctrica, Universidad de Chile
