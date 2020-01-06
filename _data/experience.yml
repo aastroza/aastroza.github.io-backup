@@ -1,23 +1,25 @@
 # Jobs
-# VP of Global Communications
+# UDD
 - company: Springfield International Human Rights Outreach
   position: VP of Global Communications
   duration: Oct, 2013 &mdash; Present
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Coopeuch
+- company: Coopeuch
+  position: Consultor de Data Science
+  duration:  Nov, 2018 &mdash; Jan, 2019
+  summary: Profesor del curso “Machine Learning y Data Science en Python” dictado para los 16 integrantes del área de Inteligencia de Negocios. Se trabajaron las bases para el diseño e implementación de proyectos de software basados en datos para el mundo financiero.
 
 
 # U de Chile
 - company: Departamento de Ingeniería Eléctrica, Universidad de Chile
   position: Investigador Asistente
   duration:   Dic, 2006  &mdash; Aug, 2016
-  summary: "Participación en proyectos de investigación con fondos estatales. Todos fueron proyectos de Machine Learning basados en OpenCV y C++.
+  summary: "Participación en proyectos de investigación con financiamiento estatal (Conicyt) y aporte privado (Metro, NEC Chile, Micomo). Todos fueron proyectos de Machine Learning aplicados a distintas industrias, generando softwares basados en OpenCV y C++.
   <ul>
   <li>Proyecto Fondef D04I-1256: Biometría para vigilancia inteligente por video.</li>
   <li>Proyecto Fondef D08I-1060: Reconocimiento inteligente de patrones por video, aplicaciones en vigilancia y minería.</li>
+  <li>Proyecto INNOVA 12IDL2-13673: Sistema de Monitoreo para Seguridad de Trabajadores en la Minería con Aprendizaje Automático.</li>
+  <li>Proyecto INNOVA 13IDL2-23589: Monitoreo Automático de Puntos de Ventas para Productos en el Retail mediante Procesamiento Digital de Imágenes.</li>
   </ul>"
