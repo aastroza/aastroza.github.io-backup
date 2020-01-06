@@ -16,7 +16,7 @@
   role: Founder & Developer
   duration: 2018 &mdash; 2019
   url: "https://www.elmostrador.cl/agenda-pais/2019/06/11/desafio-tech-and-the-city-los-proyectos-que-buscan-hacer-de-nuestras-ciudades-un-mejor-lugar-para-vivir/"
-  description: Plataforma de levantamiento de información para transporte público, incluyendo sistema de procesamiento de imágenes en video desarrollado usando Keras. El proyecto ganó el premio de incubación del Banco Interamericano de Desarrollo en la Hackatón HackAmericas Y4PT, además el fondo Tech and the City de CORFO y OpenBeauchef.
+  description: Plataforma de levantamiento de información para transporte público, incluyendo sistema de procesamiento de imágenes en video desarrollado usando Keras. El proyecto ganó el premio de incubación del BID en la Hackatón HackAmericas 2018, además nos adjudicamos el fondo Tech and the City de CORFO y OpenBeauchef.
 
 # PokeAlertas
 - project: PokeAlertas
@@ -41,6 +41,6 @@
   role: Co-author
   duration: 2014
   url: "https://rkga.tumblr.com/"
-  description: Blog de análisis de juegos competitivos usando un enfoque basado en datos. Nuestro artículo sobre análisis de matchups de Street Fighter usando Machine Learning incluso fue <a href="https://www.gamasutra.com/blogs/EduardoGraells/20141217/232531/From_Game_Balance_and_MetaGame_to_Matchup_Prediction_Understanding_the_Street_Fighter_Tier_List.php">publicado en sitios especializados como Gamasutra</a>.
+  description: Blog de análisis de juegos competitivos usando un enfoque basado en datos. Nuestro artículo sobre análisis de matchups de Street Fighter usando Machine Learning fue <a href="https://www.gamasutra.com/blogs/EduardoGraells/20141217/232531/From_Game_Balance_and_MetaGame_to_Matchup_Prediction_Understanding_the_Street_Fighter_Tier_List.php">publicado en sitios especializados como Gamasutra</a>.
   #image_path: "images/2014-sf-matchups-clusters.png"
   #image_name: "matchups-clusters"
