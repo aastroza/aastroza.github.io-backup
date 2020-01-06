@@ -14,16 +14,16 @@
 # Tmetrics
 - project: Tmetrics
   role: Founder & Developer
-  duration: 2019
+  duration: 2018 &mdash; 2019
   url: "https://www.elmostrador.cl/agenda-pais/2019/06/11/desafio-tech-and-the-city-los-proyectos-que-buscan-hacer-de-nuestras-ciudades-un-mejor-lugar-para-vivir/"
-  description: 
+  description: Plataforma de levantamiento de información para transporte público, incluyendo sistema de procesamiento de imágenes en video desarrollado usando Keras. El proyecto ganó el premio de incubación del Banco Interamericano de Desarrollo en la Hackatón HackAmericas Y4PT, además el fondo Tech and the City de CORFO y OpenBeauchef.
 
 # PokeAlertas
 - project: PokeAlertas
   role: Creator & Developer
   duration: 2016
   url: "https://twitter.com/PokeAlertasSCL"
-  description:  
+  description: Sistema de mapeo en tiempo real para el juego PokemonGo. Desarrollé un bot de twitter en Python y la cuenta obtuvo <a href="https://www.emol.com/noticias/Tecnologia/2016/08/11/816958/PokeAlertas-La-cuenta-de-Twitter-que-avisa-cuando-un-pokemon-aparece-en-Santiago.html">más de 11.000 usuarios en menos de una semana</a>.
   image_path: "images/alertas_pokemonPNG.PNG"
   image_name: "pokemon-alertas"
 
@@ -41,6 +41,6 @@
   role: Co-author
   duration: 2014
   url: "https://rkga.tumblr.com/"
-  description: 
+  description: Blog de análisis de juegos competitivos usando un enfoque basado en datos. Nuestro artículo sobre análisis de matchups de Street Fighter usando Machine Learning incluso fue <a href="https://www.gamasutra.com/blogs/EduardoGraells/20141217/232531/From_Game_Balance_and_MetaGame_to_Matchup_Prediction_Understanding_the_Street_Fighter_Tier_List.php">publicado en sitios especializados como Gamasutra</a>.
   #image_path: "images/2014-sf-matchups-clusters.png"
   #image_name: "matchups-clusters"
