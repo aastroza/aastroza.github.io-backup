@@ -1,12 +1,12 @@
 # Jobs
 # GeoVictoria
-- company: Victoria S.A.
+- company: GeoVictoria
   position: Head of Data Science
   duration: Sep, 2016 &mdash; Present
   summary: "Líder del área de Data Science, generando nuevos productos tecnológicos basados en datos para el uso de empresas en Latinoamérica: Aramark, Cencosud, Farmacias Ahumada, Ópticas GMO, Bureau Veritas, Samsung, Petrobras, Starbucks."
 
 # UDD
-- company: Instituto Data Science Universidad del Desarrollo
+- company: Instituto Data Science, Universidad del Desarrollo
   position: Profesor adjunto
   duration: Jun, 2019 &mdash; Present
   summary: Profesor del curso "Desarrollo de proyectos y productos de datos" en los programas de Magíster y Diplomado de Ciencia de Datos. Incluye clases practicas usando Flask y Heroku.
@@ -18,7 +18,7 @@
   summary: Profesor del curso “Machine Learning y Data Science en Python” dictado para los 16 integrantes del área de Inteligencia de Negocios. Se trabajaron las bases para el diseño e implementación de proyectos de software basados en datos para el mundo financiero.
 
 # GeoVictoria
-- company: Victoria S.A.
+- company: GeoVictoria
   position: Consultor de Inteligencia Artificial
   duration:  Sep, 2014 &mdash; Aug, 2016
   summary: Consultor en Proyecto de Biometría de Voz. Desarrollador en aplicación de Visualización de Datos para Retail.
