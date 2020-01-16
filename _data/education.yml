@@ -1,24 +1,24 @@
 # Degree
-- degree: Magíster en Ciencias de la Ingeniería, mención Ingeniería Civil Electricista
+- degree: Master in Engineering Sciences, Electrical Mention 
   uni: Universidad de Chile
   year: 2011 &mdash; 2015
   #awards:
   #  - award: Summa Cumme Laude graduate
-  summary: Santiago, Chile
+  #summary: Santiago, Chile
 
-- degree: Ingeniería Civil Electricista
+- degree: Electrical Engineer 
   uni: Universidad de Chile
   year: 2004 &mdash; 2010
   #awards:
   #  - award: Summa Cumme Laude graduate
-  summary: Santiago, Chile
+  #summary: Santiago, Chile
 
-- degree: Licenciatura en Ciencias de la Ingeniería mención Ingeniería Civil Electricista
+- degree: Bachelor of Electrical Engineering 
   uni: Universidad de Chile
   year: 2004 &mdash; 2008
   #awards:
   #  - award: Summa Cumme Laude graduate
-  summary: Santiago, Chile
+  #summary: Santiago, Chile
 
 #- degree: Educación Básica y Media
 #  uni: Liceo Ruiz Tagle

@@ -3,34 +3,34 @@
 - company: GeoVictoria
   position: Head of Data Science
   duration: Sep, 2016 &mdash; Present
-  summary: "Líder del área de Data Science, generando nuevos productos tecnológicos basados en datos para el uso de empresas en Latinoamérica: Aramark, Cencosud, Farmacias Ahumada, Ópticas GMO, Bureau Veritas, Samsung, Petrobras, Starbucks."
+  summary: "Led the creation of new data-driven technological products for enterprise clients in Latin America."
 
 # UDD
-- company: Instituto Data Science, Universidad del Desarrollo
-  position: Profesor adjunto
+- company: Data Science Institute, Universidad del Desarrollo
+  position: Associate Professor
   duration: Jun, 2019 &mdash; Present
-  summary: Profesor del curso "Desarrollo de proyectos y productos de datos" en los programas de Magíster y Diplomado de Ciencia de Datos. Incluye clases practicas usando Flask y Heroku.
+  summary: Lecturer of the course “Development of Data Products and Projects”, part of the Data Science master’s program. The course schedule included practical classes using Flask and Heroku.
 
 # Coopeuch
 - company: Coopeuch
-  position: Consultor de Data Science
+  position: Data Science Consultant 
   duration:  Nov, 2018 &mdash; Jan, 2019
-  summary: Profesor del curso “Machine Learning y Data Science en Python” dictado para los 16 integrantes del área de Inteligencia de Negocios. Se trabajaron las bases para el diseño e implementación de proyectos de software basados en datos para el mundo financiero.
+  summary: Lecturer of the course “Machine Learning and Data Science with Python”. 16 people of the Business Intelligence department at the company were trained in this course, which focused on fundamentals of design and implementation of data-driven software projects for finance. 
 
 # GeoVictoria
 - company: GeoVictoria
-  position: Consultor de Inteligencia Artificial
+  position: Artificial Intelligence Consultant 
   duration:  Sep, 2014 &mdash; Aug, 2016
-  summary: Consultor en Proyecto de Biometría de Voz. Desarrollador en aplicación de Visualización de Datos para Retail.
+  summary: Voice Biometrics consultant. Developer of a Data Visualization tool for retail.
 
 # U de Chile
-- company: Departamento de Ingeniería Eléctrica, Universidad de Chile
-  position: Investigador Asistente
+- company: Electrical Engineering Department, Universidad de Chile
+  position: Assistant Researcher 
   duration:   Dic, 2006  &mdash; Aug, 2016
-  summary: "Participación en proyectos de investigación con financiamiento estatal (Conicyt) y aporte privado (Metro, NEC Chile, Micomo). Todos fueron proyectos de Machine Learning aplicados a distintas industrias, generando softwares basados en OpenCV y C++.
+  summary: "Researcher in various state-funded projects (Conicyt), as well as private-funded projects (Metro, NEC Chile, Micomo). All of the following were Machine Learning projects with applications in multiple industries,  generating software tools built on OpenCV and C++.
   <ul>
-  <li>Proyecto Fondef D04I-1256: Biometría para vigilancia inteligente por video.</li>
-  <li>Proyecto Fondef D08I-1060: Reconocimiento inteligente de patrones por video, aplicaciones en vigilancia y minería.</li>
-  <li>Proyecto INNOVA 12IDL2-13673: Sistema de Monitoreo para Seguridad de Trabajadores en la Minería con Aprendizaje Automático.</li>
-  <li>Proyecto INNOVA 13IDL2-23589: Monitoreo Automático de Puntos de Ventas para Productos en el Retail mediante Procesamiento Digital de Imágenes.</li>
+  <li>Proyecto Fondef D04I-1256: Biometrics for smart video surveillance.</li>
+  <li>Proyecto Fondef D08I-1060: Smart pattern recognition in video, applications in surveillance and mining.</li>
+  <li>Proyecto INNOVA 12IDL2-13673: Monitoring system for mining workers’ safety with Machine Learning.</li>
+  <li>Proyecto INNOVA 13IDL2-23589: Automated Monitoring of Points of Sale for Retail Products using Digital Image Processing. .</li>
   </ul>"
